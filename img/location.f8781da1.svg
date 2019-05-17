@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="30px" viewBox="0 0 21 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="location" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.801641555">
+        <g id="noun_Address_2048875" transform="translate(0.000000, 0.000000)" fill="#2E3B4E">
+            <path d="M10.2442396,0 C15.8917051,0 20.3571429,4.46808511 20.3571429,10.0851064 C20.3571429,15.5744681 15.8917051,16.8510638 10.2442396,30 C4.46543779,16.8510638 0,15.5744681 0,10.0851064 C0,4.46808511 4.59677419,0 10.2442396,0 Z M10.2442396,6.12765957 C12.3456221,6.12765957 14.1843318,7.78723404 14.1843318,9.95744681 C14.1843318,12 12.3456221,13.787234 10.2442396,13.787234 C8.01152074,13.787234 6.30414747,12 6.30414747,9.95744681 C6.30414747,7.78723404 8.01152074,6.12765957 10.2442396,6.12765957 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
