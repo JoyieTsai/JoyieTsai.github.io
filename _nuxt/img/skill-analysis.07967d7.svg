@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="459px" height="397px" viewBox="0 0 459 397" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="101.156 0.277277917 216.942 54.34 216.942 177.232 164.320385 272.536 54.7216909 246.62 8.42347331 173.052 0 71.0467889"></polygon>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV" transform="translate(-98.000000, -688.000000)">
+            <g id="Group-3" transform="translate(97.000000, 684.000000)">
+                <circle id="Oval" fill="#EFEFEF" cx="249.15" cy="207.35" r="173.25"></circle>
+                <polygon id="Polygon" stroke="#DBDBDB" stroke-width="1.672" points="248.05 48.4 372.322114 108.246296 403.014792 242.719702 317.01582 350.559002 179.08418 350.559002 93.0852084 242.719702 123.777886 108.246296"></polygon>
+                <g id="Group-4" transform="translate(147.400000, 55.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Path" fill="#FDB7B7" xlink:href="#path-1"></use>
+                    <polygon id="Path-2" fill="#EB9B9B" mask="url(#mask-2)" points="101.156 -21.736 101.156 152.152 236.615661 45.144"></polygon>
+                    <polygon id="Path-3" fill-opacity="0.85" fill="#EB9B9B" mask="url(#mask-2)" points="101.156 151.316 236.615661 45.144 268.774 188.936"></polygon>
+                    <polygon id="Path-4" fill-opacity="0.7" fill="#EB9B9B" mask="url(#mask-2)" points="101.156 151.316 268.774 188.936 181.412 303.744882"></polygon>
+                    <polygon id="Path-5" fill-opacity="0.55" fill="#EB9B9B" mask="url(#mask-2)" points="101.156 151.316 181.412 303.744882 26.2208127 307.318265"></polygon>
+                    <polygon id="Path-6" fill-opacity="0.4" fill="#EB9B9B" mask="url(#mask-2)" points="101.156 152.152 26.2208127 307.318265 -66.9973003 189.708215"></polygon>
+                    <polygon id="Path-7" fill-opacity="0.25" fill="#EB9B9B" mask="url(#mask-2)" points="101.992 152.152 -66.9973003 189.708215 -34.5011574 43.472"></polygon>
+                </g>
+                <text id="Graphic" opacity="0.798828125" font-family="Lato-Regular, Lato" font-size="17.6" font-weight="normal" fill="#383636">
+                    <tspan x="221.1" y="17">Graphic</tspan>
+                </text>
+                <text id="Front-end" opacity="0.798828125" font-family="Lato-Regular, Lato" font-size="17.6" font-weight="normal" fill="#383636">
+                    <tspan x="298.1" y="399.8">Front-end</tspan>
+                </text>
+                <text id="Interior" opacity="0.798828125" font-family="Lato-Regular, Lato" font-size="17.6" font-weight="normal" fill="#383636">
+                    <tspan x="133.1" y="399.8">Interior</tspan>
+                </text>
+                <text id="Multimedia" opacity="0.798828125" font-family="Lato-Regular, Lato" font-size="17.6" font-weight="normal" fill="#383636">
+                    <tspan x="0" y="100.16">Multimedia</tspan>
+                </text>
+                <text id="3D" opacity="0.798828125" font-family="Lato-Regular, Lato" font-size="17.6" font-weight="normal" fill="#383636">
+                    <tspan x="36.74" y="251.52">3D</tspan>
+                </text>
+                <text id="UI" opacity="0.798828125" font-family="Lato-Regular, Lato" font-size="17.6" font-weight="normal" fill="#383636">
+                    <tspan x="402.6" y="100.16">UI</tspan>
+                </text>
+                <text id="UX" opacity="0.798828125" font-family="Lato-Regular, Lato" font-size="17.6" font-weight="normal" fill="#383636">
+                    <tspan x="435.38" y="251.52">UX</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

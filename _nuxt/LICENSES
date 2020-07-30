@@ -1,32 +1,19 @@
 /*!
- * Vue.js v2.6.10
+  * vue-router v3.3.4
+  * (c) 2020 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.11
  * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
 
 /*!
-  * vue-router v3.0.7
-  * (c) 2019 Evan You
-  * @license MIT
-  */
-
-/**
- * vue-meta v1.6.0
- * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
- * @license MIT
- */
-
-/*
-	object-assign
-	(c) Sindre Sorhus
-	@license MIT
-	*/
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
  */
 
 /*!
@@ -34,30 +21,3 @@
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
-
-//! moment.js
-
-//! version : 2.19.1
-
-//! authors : Tim Wood, Iskren Chernev, Moment.js contributors
-
-//! license : MIT
-
-//! momentjs.com
-
-/**
-* @link https://github.com/gajus/sister for the canonical source repository
-* @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
-*/
-
-/*!
- * vue-social-sharing v2.4.5 
- * (c) 2019 nicolasbeauvais
- * Released under the MIT License.
- */
-
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/

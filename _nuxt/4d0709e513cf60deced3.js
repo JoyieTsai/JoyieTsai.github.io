@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{739:function(e,n,t){"use strict";t.r(n);var c={fetch:function(e){var n=e.params,t=e.redirect;console.log(n),t(301,"/news/2019")}},r=t(13),component=Object(r.a)(c,function(){var e=this.$createElement;return(this._self._c||e)("div")},[],!1,null,null,null);n.default=component.exports}}]);
